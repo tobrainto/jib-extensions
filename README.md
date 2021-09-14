@@ -1,4 +1,4 @@
-# Jib Extensions
+# Jib Extensions Jib分层构建
 
 This repository contains extensions to the
 [Jib](https://github.com/GoogleContainerTools/jib) Maven and Gradle build plugins.
